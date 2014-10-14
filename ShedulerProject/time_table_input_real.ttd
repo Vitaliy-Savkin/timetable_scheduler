@@ -1,0 +1,1178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SchedulerInput id="6F-52-3B-3B-3B-46-5C-43-55-16" days="6" slots_per_day="5">
+  <Rooms>
+    <Room id="1" house_n="15" class_n="015/2" type="Lecture" />
+    <Room id="2" house_n="14" class_n="76" type="Practice" />
+    <Room id="3" house_n="15" class_n="117/2" type="Laboratory" />
+    <Room id="4" house_n="15" class_n="97" type="Lecture" />
+    <Room id="5" house_n="15" class_n="94" type="Practice" />
+    <Room id="6" house_n="15" class_n="95" type="Practice" />
+    <Room id="7" house_n="19" class_n="340" type="Lecture" />
+    <Room id="8" house_n="15" class_n="116" type="Laboratory" />
+    <Room id="9" house_n="14" class_n="67" type="Practice" />
+    <Room id="10" house_n="15" class_n="92" type="Practice" />
+    <Room id="11" house_n="15" class_n="93" type="Practice" />
+    <Room id="12" house_n="19" class_n="344" type="Practice" />
+    <Room id="13" house_n="15" class_n="96" type="Practice" />
+    <Room id="14" house_n="19" class_n="516" type="Practice" />
+    <Room id="15" house_n="18" class_n="203" type="Practice" />
+    <Room id="16" house_n="13" class_n="06" type="Practice" />
+    <Room id="17" house_n="15" class_n="107" type="Laboratory" />
+    <Room id="18" house_n="16" class_n="125" type="Laboratory" />
+    <Room id="19" house_n="19" class_n="339" type="Lecture" />
+    <Room id="20" house_n="14" class_n="72" type="Practice" />
+    <Room id="21" house_n="14" class_n="64" type="Laboratory" />
+    <Room id="22" house_n="14" class_n="63" type="Practice" />
+    <Room id="23" house_n="19" class_n="517" type="Practice" />
+    <Room id="24" house_n="18" class_n="204" type="Lecture" />
+    <Room id="25" house_n="30" class_n="военка-3-курс-1" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 1)];&#xA;]" type="Assigned" />
+    <Room id="26" house_n="30" class_n="военка-4-курс-1" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(1 - 1)];&#xA;]" type="Assigned" />
+    <Room id="27" house_n="18" class_n="209А" type="Lecture" />
+    <Room id="28" house_n="19" class_n="342" type="Lecture" />
+    <Room id="29" house_n="1" class_n="262/4" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [(1 - 1),(1 - 4),(1 - 5),(2 - 3),(2 - 4),(2 - 5),(3 - 1),(3 - 2),(3 - 3),(3 - 4),(3 - 5),(4 - 1),(4 - 2),(4 - 3),(4 - 4),(4 - 5),(5 - 1),(5 - 2),(5 - 3),(5 - 4),(5 - 5),(6 - 1),(6 - 2),(6 - 3),(6 - 4),(6 - 5)];&#xA;Necessary [];&#xA;]" type="Lecture" />
+    <Room id="30" house_n="19" class_n="524" type="Practice" />
+    <Room id="31" house_n="19" class_n="522" type="Practice" />
+    <Room id="32" house_n="19" class_n="514" type="Practice" />
+    <Room id="33" house_n="19" class_n="521" type="Practice" />
+    <Room id="34" house_n="7" class_n="823" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(2 - 2)];&#xA;]" type="Practice" />
+    <Room id="35" house_n="7" class_n="825" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 4)];&#xA;]" type="Practice" />
+    <Room id="36" house_n="15" class_n="117/1" type="Laboratory" />
+    <Room id="37" house_n="19" class_n="519" type="Lecture" />
+    <Room id="38" house_n="18" class_n="230" type="Practice" />
+    <Room id="39" house_n="19" class_n="511" type="Lecture" />
+    <Room id="40" house_n="35" class_n="404" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(2 - 2)];&#xA;]" type="Practice" />
+    <Room id="41" house_n="22" class_n="305" type="Assigned" />
+    <Room id="42" house_n="18" class_n="228" type="Practice" />
+    <Room id="43" house_n="7" class_n="325" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(3 - 2),(3 - 3)];&#xA;]" type="Laboratory" />
+    <Room id="44" house_n="7" class_n="238" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 2),(5 - 3)];&#xA;]" type="Laboratory" />
+    <Room id="45" house_n="7" class_n="336" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 3)];&#xA;]" type="Laboratory" />
+    <Room id="47" house_n="22" class_n="322" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [(1 - 1),(1 - 3),(1 - 5),(2 - 1),(2 - 2),(2 - 3),(2 - 4),(2 - 5),(3 - 1),(3 - 2),(3 - 3),(3 - 4),(3 - 5),(4 - 3),(4 - 4),(4 - 5),(5 - 1),(5 - 2),(5 - 3),(5 - 4),(5 - 5),(6 - 1),(6 - 2),(6 - 3),(6 - 4),(6 - 5)];&#xA;Necessary [];&#xA;]" type="Assigned" />
+    <Room id="48" house_n="24" class_n="фп1" type="Assigned" />
+    <Room id="49" house_n="24" class_n="фп2" type="Assigned" />
+    <Room id="50" house_n="24" class_n="фп3" type="Assigned" />
+    <Room id="51" house_n="24" class_n="фп4" type="Assigned" />
+    <Room id="52" house_n="24" class_n="фп5" type="Assigned" />
+    <Room id="53" house_n="24" class_n="фп6" type="Assigned" />
+    <Room id="54" house_n="24" class_n="фп7" type="Assigned" />
+    <Room id="55" house_n="24" class_n="фп8" type="Assigned" />
+    <Room id="56" house_n="24" class_n="фп9" type="Assigned" />
+    <Room id="57" house_n="24" class_n="фп10" type="Assigned" />
+    <Room id="58" house_n="24" class_n="фп11" type="Assigned" />
+    <Room id="59" house_n="24" class_n="фп12" type="Assigned" />
+    <Room id="60" house_n="24" class_n="фп13" type="Assigned" />
+    <Room id="61" house_n="24" class_n="фв1" type="Assigned" />
+    <Room id="62" house_n="24" class_n="фв2" type="Assigned" />
+    <Room id="63" house_n="24" class_n="фв3" type="Assigned" />
+    <Room id="64" house_n="24" class_n="фв4" type="Assigned" />
+    <Room id="65" house_n="24" class_n="фв5" type="Assigned" />
+    <Room id="66" house_n="24" class_n="фв6" type="Assigned" />
+    <Room id="67" house_n="24" class_n="фв7" type="Assigned" />
+    <Room id="68" house_n="24" class_n="фв8" type="Assigned" />
+    <Room id="69" house_n="24" class_n="фв9" type="Assigned" />
+    <Room id="70" house_n="24" class_n="фв10" type="Assigned" />
+    <Room id="71" house_n="30" class_n="военка-3-курс-2" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 2)];&#xA;]" type="Assigned" />
+    <Room id="72" house_n="30" class_n="военка-4-курс-2" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(1 - 2)];&#xA;]" type="Assigned" />
+    <Room id="73" house_n="30" class_n="военка-3-курс-3" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 3)];&#xA;]" type="Assigned" />
+    <Room id="74" house_n="30" class_n="военка-4-курс-3" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(1 - 3)];&#xA;]" type="Assigned" />
+    <Room id="75" house_n="30" class_n="военка-3-курс-4" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 4)];&#xA;]" type="Assigned" />
+    <Room id="76" house_n="30" class_n="военка-4-курс-4" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(1 - 4)];&#xA;]" type="Assigned" />
+    <Room id="77" house_n="30" class_n="военка-3-курс-5" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(5 - 5)];&#xA;]" type="Assigned" />
+    <Room id="78" house_n="30" class_n="военка-4-курс-5" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(1 - 5)];&#xA;]" type="Assigned" />
+    <Room id="79" house_n="19" class_n="515" type="Practice" />
+  </Rooms>
+  <Groups>
+    <Course number="4">
+      <Group id="0" name="КП-91" />
+      <Group id="4" name="КМ-91" />
+      <Group id="5" name="КМ-92" />
+      <Group id="18" name="КВ-93" />
+      <Group id="19" name="КВ-92" />
+      <Group id="20" name="КВ-91" />
+    </Course>
+    <Course number="1">
+      <Group id="1" name="КП-21" />
+      <Group id="11" name="КМ-23" />
+      <Group id="12" name="КМ-22" />
+      <Group id="13" name="КМ-21" />
+      <Group id="29" name="КВ-21" />
+      <Group id="30" name="КВ-22" />
+      <Group id="31" name="КВ-23" />
+    </Course>
+    <Course number="2">
+      <Group id="2" name="КП-11" />
+      <Group id="14" name="КМ-12" />
+      <Group id="15" name="КМ-11" />
+      <Group id="32" name="КВ-11" />
+      <Group id="33" name="КВ-12" />
+    </Course>
+    <Course number="3">
+      <Group id="3" name="КП-01" />
+      <Group id="16" name="КМ-01" />
+      <Group id="17" name="КМ-02" />
+      <Group id="35" name="КВ-01" />
+      <Group id="36" name="КВ-02" />
+      <Group id="37" name="КВ-03" />
+    </Course>
+    <Course number="5">
+      <Group id="6" name="КМ-83" />
+      <Group id="7" name="КМ-82" />
+      <Group id="8" name="КМ-81" />
+      <Group id="9" name="КМ-81м" />
+      <Group id="21" name="КВ-81" />
+      <Group id="22" name="КВ-82" />
+      <Group id="23" name="КВ-83" />
+      <Group id="24" name="КВ-84" />
+      <Group id="25" name="КВ-85" />
+    </Course>
+    <Course number="6">
+      <Group id="10" name="КМ-71" />
+      <Group id="26" name="КВ-71" />
+      <Group id="27" name="КВ-73" />
+      <Group id="28" name="КВ-74" />
+    </Course>
+  </Groups>
+  <Lecturers>
+    <Lecturer id="231" name="фв1" />
+    <Lecturer id="230" name="Физруки" />
+    <Lecturer id="228" name="Военка-3-курс" />
+    <Lecturer id="0" name="Абакумов" />
+    <Lecturer id="1" name="Архипська" />
+    <Lecturer id="2" name="Бабич" />
+    <Lecturer id="3" name="Бакалінський" />
+    <Lecturer id="4" name="Балабух" />
+    <Lecturer id="5" name="Бенатов Данило" />
+    <Lecturer id="6" name="Бережна Галина" />
+    <Lecturer id="7" name="Березовський Костянтин" />
+    <Lecturer id="8" name="Білостоцький Анатолій" />
+    <Lecturer id="9" name="Блохіна І." />
+    <Lecturer id="10" name="Блохіна І" />
+    <Lecturer id="11" name="Богданенко" />
+    <Lecturer id="12" name="Богомазов" />
+    <Lecturer id="13" name="Божко Борис" />
+    <Lecturer id="14" name="Бохонов Юрій" />
+    <Lecturer id="15" name="Бохонова" />
+    <Lecturer id="17" name="Бухтіяров Юрій" />
+    <Lecturer id="18" name="Валуйський В’ячеслав" />
+    <Lecturer id="19" name="Васильцова" />
+    <Lecturer id="20" name="Вах" />
+    <Lecturer id="21" name="Вембер" />
+    <Lecturer id="22" name="Верба Ірина" />
+    <Lecturer id="24" name="Веселка" />
+    <Lecturer id="25" name="Власюк" />
+    <Lecturer id="26" name="Войтко" />
+    <Lecturer id="27" name="Волянюк Н." />
+    <Lecturer id="28" name="Галушко Михайло" />
+    <Lecturer id="30" name="Герасимчук" />
+    <Lecturer id="31" name="Головенкін Владислав" />
+    <Lecturer id="32" name="Голуб Олександра" />
+    <Lecturer id="33" name="Григоренко" />
+    <Lecturer id="34" name="Грицанчук Олена" />
+    <Lecturer id="35" name="Грищенко Яна" />
+    <Lecturer id="36" name="Гроль Володимир" />
+    <Lecturer id="37" name="Громова Вікторія" />
+    <Lecturer id="38" name="Гуцол Світлана" />
+    <Lecturer id="39" name="Гущина Тетяна" />
+    <Lecturer id="40" name="Девтеров" />
+    <Lecturer id="41" name="Джигирей" />
+    <Lecturer id="42" name="Дирда О" />
+    <Lecturer id="43" name="Дичка Іван" />
+    <Lecturer id="44" name="Дідковська М" />
+    <Lecturer id="45" name="Дімарова" />
+    <Lecturer id="46" name="Довженко" />
+    <Lecturer id="47" name="Драник" />
+    <Lecturer id="48" name="Дробишев Юрій" />
+    <Lecturer id="49" name="Дробязко Ірина" />
+    <Lecturer id="50" name="Дрозденко Олександр" />
+    <Lecturer id="51" name="Дроздинський" />
+    <Lecturer id="52" name="Дубенюк Лідія" />
+    <Lecturer id="53" name="Єфремова Анна" />
+    <Lecturer id="54" name="Жабін В. І." />
+    <Lecturer id="55" name="Жабіна Валентина" />
+    <Lecturer id="56" name="Жигалкевич Жанна" />
+    <Lecturer id="57" name="Заболотня Тетяна" />
+    <Lecturer id="58" name="Зайцев Володимир" />
+    <Lecturer id="60" name="Замятін Денис" />
+    <Lecturer id="61" name="Землянська Олена" />
+    <Lecturer id="62" name="Зливков" />
+    <Lecturer id="63" name="Зорін Юрій" />
+    <Lecturer id="65" name="Іваницька" />
+    <Lecturer id="66" name="Іванов" />
+    <Lecturer id="67" name="Іванова Ірина" />
+    <Lecturer id="68" name="Калита" />
+    <Lecturer id="69" name="Калюжний" />
+    <Lecturer id="70" name="Капустіна" />
+    <Lecturer id="71" name="Карбовська" />
+    <Lecturer id="72" name="Карпінська Н" />
+    <Lecturer id="73" name="Картохіна" />
+    <Lecturer id="74" name="Кауфман Л." />
+    <Lecturer id="75" name="Клятченко Ярослав" />
+    <Lecturer id="77" name="Ковальчук Людмила" />
+    <Lecturer id="78" name="Козьяков" />
+    <Lecturer id="79" name="Козьякова" />
+    <Lecturer id="80" name="Колінько Рита" />
+    <Lecturer id="81" name="Коломієць" />
+    <Lecturer id="82" name="Коляда Костянтин" />
+    <Lecturer id="83" name="Комар Володимир" />
+    <Lecturer id="84" name="Комісар Дмитро" />
+    <Lecturer id="85" name="Кондратьєва" />
+    <Lecturer id="86" name="Копичко Сергій" />
+    <Lecturer id="87" name="Корницька Юлія" />
+    <Lecturer id="88" name="Корнієнко" />
+    <Lecturer id="89" name="Корольова" />
+    <Lecturer id="90" name="Косіцина Ірина" />
+    <Lecturer id="91" name="Костенко Катерина" />
+    <Lecturer id="92" name="Крамський" />
+    <Lecturer id="93" name="Красовська" />
+    <Lecturer id="94" name="Крейдич І.М." />
+    <Lecturer id="95" name="Кривец" />
+    <Lecturer id="96" name="Крівцов" />
+    <Lecturer id="97" name="Кузнецов" />
+    <Lecturer id="98" name="Ладогубець Тетяна" />
+    <Lecturer id="99" name="Лєбєдєв Ігор" />
+    <Lecturer id="100" name="Лєбєдєва Ольга" />
+    <Lecturer id="101" name="Лінчевський Ігор" />
+    <Lecturer id="102" name="Лободзинська" />
+    <Lecturer id="103" name="Лук'янець" />
+    <Lecturer id="104" name="Лук'янчук" />
+    <Lecturer id="105" name="Луц Т." />
+    <Lecturer id="106" name="Луценко" />
+    <Lecturer id="107" name="Любашенко Н.Д." />
+    <Lecturer id="109" name="Люшенко Л" />
+    <Lecturer id="110" name="Макєєва" />
+    <Lecturer id="111" name="Мальчиков Володимир" />
+    <Lecturer id="112" name="Марченко Олександр" />
+    <Lecturer id="113" name="Маслов Євген" />
+    <Lecturer id="115" name="Маслянко Павло" />
+    <Lecturer id="116" name="Махомет Інна" />
+    <Lecturer id="117" name="Мейтарчан" />
+    <Lecturer id="118" name="Мельничук Неля" />
+    <Lecturer id="119" name="Мирвода" />
+    <Lecturer id="120" name="Миргородська" />
+    <Lecturer id="121" name="Мислович" />
+    <Lecturer id="122" name="Михайленко В'ячеслав" />
+    <Lecturer id="123" name="Михайлюк Антон" />
+    <Lecturer id="124" name="Мінарченко О" />
+    <Lecturer id="125" name="Молчанов Олександр" />
+    <Lecturer id="126" name="Муратова" />
+    <Lecturer id="127" name="Муханова О" />
+    <Lecturer id="128" name="Наливайчук Микола" />
+    <Lecturer id="129" name="Незвиська" />
+    <Lecturer id="130" name="Носенко" />
+    <Lecturer id="131" name="Овсянкіна Вікторія" />
+    <Lecturer id="132" name="Олефір Олександр" />
+    <Lecturer id="133" name="Олійник" />
+    <Lecturer id="134" name="Онай Микола" />
+    <Lecturer id="135" name="Орлова Марія" />
+    <Lecturer id="136" name="Остапенко" />
+    <Lecturer id="137" name="Павловський Володимир" />
+    <Lecturer id="138" name="Пагурець Олена" />
+    <Lecturer id="139" name="Панченко" />
+    <Lecturer id="140" name="Петрашенко Андрій" />
+    <Lecturer id="142" name="Петряєв С" />
+    <Lecturer id="143" name="Пилипчук" />
+    <Lecturer id="144" name="Писаренко" />
+    <Lecturer id="145" name="Плакіда Г" />
+    <Lecturer id="146" name="Плахотний Микола" />
+    <Lecturer id="147" name="Подколзін" />
+    <Lecturer id="148" name="Покорська" />
+    <Lecturer id="149" name="Полукаров Юрій" />
+    <Lecturer id="150" name="Поршакова Наталя" />
+    <Lecturer id="151" name="Потапова Катерина" />
+    <Lecturer id="152" name="Процко" />
+    <Lecturer id="153" name="Прухницька Ольга" />
+    <Lecturer id="154" name="Радий" />
+    <Lecturer id="155" name="Романкевич Олексій" />
+    <Lecturer id="156" name="Романкевич Віталій" />
+    <Lecturer id="157" name="Россошинський Дмитро" />
+    <Lecturer id="158" name="Рубанець Олександра" />
+    <Lecturer id="160" name="Сапегін Анатолій" />
+    <Lecturer id="161" name="Сапсай Тетяна" />
+    <Lecturer id="162" name="Сарієва" />
+    <Lecturer id="163" name="Свідло Тетяна" />
+    <Lecturer id="164" name="Святовець Павло" />
+    <Lecturer id="165" name="Северинчик" />
+    <Lecturer id="166" name="Симоненко Валерій" />
+    <Lecturer id="167" name="Симоненко Світлана" />
+    <Lecturer id="168" name="Синьков" />
+    <Lecturer id="169" name="Сирота С" />
+    <Lecturer id="170" name="Ситник" />
+    <Lecturer id="171" name="Сірик Сергій" />
+    <Lecturer id="172" name="Слєпушкіна Алла" />
+    <Lecturer id="173" name="Снарський Андрій" />
+    <Lecturer id="174" name="Соколова Надія" />
+    <Lecturer id="175" name="Сокотун Ганна" />
+    <Lecturer id="176" name="Статюха" />
+    <Lecturer id="177" name="Стіренко" />
+    <Lecturer id="178" name="Столяров Володимир" />
+    <Lecturer id="179" name="Сторожик М" />
+    <Lecturer id="180" name="Стрілковська" />
+    <Lecturer id="181" name="Сулема Євгенія" />
+    <Lecturer id="182" name="Сущук-Слюсаренко" />
+    <Lecturer id="183" name="Тарасенко Оксана" />
+    <Lecturer id="184" name="Тарасенко Володимир" />
+    <Lecturer id="186" name="Темнікова Олена" />
+    <Lecturer id="187" name="Терейковський Ігор" />
+    <Lecturer id="188" name="Терещенко І" />
+    <Lecturer id="189" name="Терещенко Людмила" />
+    <Lecturer id="190" name="Тесленко Олександр" />
+    <Lecturer id="192" name="Тишко Ірина" />
+    <Lecturer id="193" name="Тітаренко" />
+    <Lecturer id="194" name="Трофименко" />
+    <Lecturer id="195" name="Тюлін" />
+    <Lecturer id="196" name="Удовицька" />
+    <Lecturer id="197" name="Усик" />
+    <Lecturer id="198" name="Федорова Ірина" />
+    <Lecturer id="199" name="Федотов В" />
+    <Lecturer id="200" name="Федченко" />
+    <Lecturer id="201" name="Френзе Юрій" />
+    <Lecturer id="202" name="Хайнаков" />
+    <Lecturer id="203" name="Цареградская" />
+    <Lecturer id="204" name="Царьова Т" />
+    <Lecturer id="205" name="Цвинтарна" />
+    <Lecturer id="206" name="Цешковський" />
+    <Lecturer id="207" name="Цихоцький Віктор" />
+    <Lecturer id="208" name="Чаповський" />
+    <Lecturer id="209" name="Чеботарева" />
+    <Lecturer id="210" name="Черкасов" />
+    <Lecturer id="211" name="Чернушак" />
+    <Lecturer id="212" name="Чертов Олег" />
+    <Lecturer id="213" name="Шабан" />
+    <Lecturer id="214" name="Шафоростов Микола" />
+    <Lecturer id="215" name="Шевченко Микола" />
+    <Lecturer id="216" name="Шепелєва Олена" />
+    <Lecturer id="217" name="Шимкова" />
+    <Lecturer id="218" name="Широчин" time_constraints="[&#xA;Desirible [];&#xA;Undesirible [];&#xA;Impossible [];&#xA;Necessary [(6 - 1),(6 - 2),(6 - 3)];&#xA;]" />
+    <Lecturer id="219" name="Шубенкова І" />
+    <Lecturer id="220" name="Юрченко Ірина" />
+    <Lecturer id="221" name="Юрчишин В" />
+    <Lecturer id="222" name="Юшко Андрій" />
+    <Lecturer id="223" name="Ягодинський" />
+    <Lecturer id="224" name="Язвинська Надія" />
+    <Lecturer id="225" name="Якут Лідія" />
+    <Lecturer id="226" name="Яловий" />
+    <Lecturer id="227" name="Яценко Віталій" />
+    <Lecturer id="229" name="Военка-4-курс" />
+    <Lecturer id="232" name="фв2" />
+    <Lecturer id="233" name="фв3" />
+    <Lecturer id="234" name="фв4" />
+    <Lecturer id="235" name="фв5" />
+    <Lecturer id="236" name="фв6" />
+    <Lecturer id="237" name="фв7" />
+    <Lecturer id="238" name="фв8" />
+    <Lecturer id="239" name="фв9" />
+    <Lecturer id="240" name="фв10" />
+    <Lecturer id="241" name="фп1" />
+    <Lecturer id="242" name="фп2" />
+    <Lecturer id="243" name="фп3" />
+    <Lecturer id="244" name="фп4" />
+    <Lecturer id="245" name="фп5" />
+    <Lecturer id="246" name="фп6" />
+    <Lecturer id="247" name="фп7" />
+    <Lecturer id="248" name="фп8" />
+    <Lecturer id="249" name="фп9" />
+    <Lecturer id="250" name="фп10" />
+    <Lecturer id="251" name="фп11" />
+    <Lecturer id="252" name="фп12" />
+    <Lecturer id="253" name="фп13" />
+  </Lecturers>
+  <Subjects>
+    <Subject id="0" name="3D моделювання та візуалізація" lecturer_id="">
+      <Event id="0" type="Lecture" groups="25" lecturer_id="181" />
+      <Event id="1" type="Practice" groups="25" lecturer_id="55" />
+    </Subject>
+    <Subject id="1" name="Web-дизайн" lecturer_id="">
+      <Event id="2" type="Lecture" groups="35,36,37" lecturer_id="140" />
+      <Event id="3" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="4" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="5" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="128" />
+    </Subject>
+    <Subject id="2" name="Web-програм. та Web-сервіси" lecturer_id="" />
+    <Subject id="3" name="Автоматизоване проектування комп'ютерних систем" lecturer_id="" />
+    <Subject id="4" name="Алгебра" lecturer_id="" />
+    <Subject id="5" name="Алгебра і геометрія" lecturer_id="">
+      <Event id="6" type="Lecture" groups="12,13,11" lecturer_id="32" />
+      <Event id="7" type="Practice" groups="13" lecturer_id="32" />
+      <Event id="8" type="Practice" groups="12" lecturer_id="169" />
+      <Event id="9" type="Practice" groups="11" lecturer_id="169" />
+    </Subject>
+    <Subject id="6" name="Алгоритми та методи обчислень" lecturer_id="">
+      <Event id="10" type="Lecture" groups="35,36,37" lecturer_id="63" />
+      <Event id="11" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="49" />
+      <Event id="12" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="49" />
+      <Event id="13" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="49" />
+    </Subject>
+    <Subject id="7" name="Алгоритми та методи обчислювальних систем штучного інтелекту" lecturer_id="" />
+    <Subject id="8" name="Аналіз вимог" lecturer_id="">
+      <Event id="14" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="192" />
+      <Event id="15" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="192" />
+    </Subject>
+    <Subject id="9" name="Англійська мова" lecturer_id="">
+      <Event id="435" type="Practice" groups="15" lecturer_id="87" />
+      <Event id="436" type="Practice" groups="16" lecturer_id="87" />
+      <Event id="437" type="Practice" groups="13" lecturer_id="87" />
+      <Event id="438" type="Practice" groups="19" lecturer_id="87" />
+      <Event id="439" type="Practice" groups="5" lecturer_id="87" />
+      <Event id="440" type="Practice" groups="0" lecturer_id="87" />
+      <Event id="441" type="Practice" groups="29" lecturer_id="87" />
+      <Event id="442" type="Practice" groups="17" lecturer_id="87" />
+      <Event id="443" type="Practice" groups="14" lecturer_id="87" />
+      <Event id="444" type="Practice" groups="2" lecturer_id="87" />
+      <Event id="445" type="Practice" groups="12" lecturer_id="87" />
+      <Event id="446" type="Practice" groups="32" lecturer_id="175" />
+      <Event id="447" type="Practice" groups="18" lecturer_id="175" />
+      <Event id="448" type="Practice" groups="1" lecturer_id="175" />
+      <Event id="449" type="Practice" groups="11" lecturer_id="175" />
+      <Event id="450" type="Practice" groups="9" lecturer_id="216" />
+      <Event id="451" type="Practice" groups="21,24,25" lecturer_id="216" />
+      <Event id="452" type="Practice" groups="36" lecturer_id="216" />
+      <Event id="453" type="Practice" groups="20" lecturer_id="216" />
+      <Event id="454" type="Practice" groups="26" lecturer_id="216" />
+      <Event id="455" type="Practice" groups="8" lecturer_id="216" />
+      <Event id="456" type="Practice" groups="3" lecturer_id="216" />
+      <Event id="457" type="Practice" groups="10" lecturer_id="216" />
+      <Event id="458" type="Practice" groups="27,28" lecturer_id="216" />
+      <Event id="459" type="Practice" groups="26" lecturer_id="216" />
+      <Event id="460" type="Practice" groups="37" lecturer_id="127" />
+      <Event id="461" type="Practice" groups="22,23" lecturer_id="127" />
+      <Event id="462" type="Practice" groups="35" lecturer_id="127" />
+      <Event id="463" type="Practice" groups="33" lecturer_id="127" />
+      <Event id="464" type="Practice" groups="23" lecturer_id="127" />
+      <Event id="465" type="Practice" groups="4" lecturer_id="127" />
+      <Event id="466" type="Practice" groups="31" lecturer_id="127" />
+      <Event id="467" type="Practice" groups="31" lecturer_id="127" />
+      <Event id="468" type="Practice" groups="29,30,31" lecturer_id="127" />
+      <Event id="469" type="Practice" groups="33" lecturer_id="127" />
+      <Event id="470" type="Practice" groups="30" lecturer_id="127" />
+    </Subject>
+    <Subject id="10" name="Архітектура і проектування комп'ютерних систем" lecturer_id="" />
+    <Subject id="11" name="Архітектура комп'ютерів" lecturer_id="">
+      <Event id="16" type="Lecture" groups="18,19,20" lecturer_id="155" />
+      <Event id="17" type="Lecture" groups="3" once_in_two_weeks="true" lecturer_id="54" />
+      <Event id="18" type="Practice" groups="20" once_in_two_weeks="true" lecturer_id="155" />
+      <Event id="19" type="Practice" groups="19" once_in_two_weeks="true" lecturer_id="155" />
+      <Event id="20" type="Practice" groups="18" once_in_two_weeks="true" lecturer_id="155" />
+      <Event id="21" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="54" />
+      <Event id="22" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="54" />
+    </Subject>
+    <Subject id="12" name="Архітектура ОС" lecturer_id="">
+      <Event id="23" type="Laboratory" groups="13" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="24" type="Practice" groups="13" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="25" type="Laboratory" groups="12" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="26" type="Practice" groups="12" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="27" type="Laboratory" groups="11" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="28" type="Practice" groups="11" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="29" type="Lecture" groups="11,12,13" lecturer_id="86" />
+    </Subject>
+    <Subject id="13" name="Архітектура та Проектування ПЗ" lecturer_id="" />
+    <Subject id="14" name="Бази даних та інформаційні системи" lecturer_id="">
+      <Event id="30" type="Lecture" groups="4,5" lecturer_id="188" />
+      <Event id="31" type="Practice" groups="4" once_in_two_weeks="true" lecturer_id="188" />
+      <Event id="32" type="Practice" groups="5" once_in_two_weeks="true" lecturer_id="188" />
+      <Event id="33" type="Laboratory" groups="4,5" lecturer_id="77" />
+    </Subject>
+    <Subject id="15" name="Безпека життєдіяльності" lecturer_id="" />
+    <Subject id="16" name="Безпека Програмування" lecturer_id="" />
+    <Subject id="17" name="Бортові та навігаційні ЕОМ" lecturer_id="" />
+    <Subject id="18" name="Вимірювання в комп'ютерних системах" lecturer_id="" />
+    <Subject id="19" name="Випадкові процеси" lecturer_id="">
+      <Event id="34" type="Lecture" groups="16,17" lecturer_id="48" />
+      <Event id="35" type="Laboratory" groups="16" once_in_two_weeks="true" lecturer_id="48" />
+      <Event id="36" type="Laboratory" groups="17" once_in_two_weeks="true" lecturer_id="48" />
+    </Subject>
+    <Subject id="20" name="Високопродуктивні КС" lecturer_id="" />
+    <Subject id="21" name="Військова підготовка" lecturer_id="">
+      <Event id="403" type="Assigned" groups="3,16,17,35,36,37" hard_assigned_room="25" lecturer_id="228" />
+      <Event id="37" type="Assigned" groups="16,3,17,35,36,37" hard_assigned_room="71" lecturer_id="228" />
+      <Event id="38" type="Assigned" groups="0,4,5,19,18,20" hard_assigned_room="26" lecturer_id="229" />
+      <Event id="404" type="Assigned" groups="3,16,17,36,35,37" hard_assigned_room="73" lecturer_id="228" />
+      <Event id="405" type="Assigned" groups="3,16,17,35,36,37" hard_assigned_room="75" lecturer_id="228" />
+      <Event id="406" type="Assigned" groups="3,16,17,35,36,37" hard_assigned_room="77" lecturer_id="228" />
+      <Event id="407" type="Assigned" groups="0,4,5,18,19,20" hard_assigned_room="72" lecturer_id="229" />
+      <Event id="408" type="Assigned" groups="0,4,5,18,19,20" hard_assigned_room="74" lecturer_id="229" />
+      <Event id="409" type="Assigned" groups="0,4,5,18,19,20" hard_assigned_room="76" lecturer_id="229" />
+      <Event id="410" type="Assigned" groups="0,4,5,18,19,20" hard_assigned_room="78" lecturer_id="229" />
+    </Subject>
+    <Subject id="22" name="Вступ до комп'ютерних систем" lecturer_id="" />
+    <Subject id="23" name="Вступ до програмної інженерії" lecturer_id="" />
+    <Subject id="24" name="Вступ до програмування" lecturer_id="" />
+    <Subject id="25" name="Вступ до функціонального програмування" lecturer_id="" />
+    <Subject id="27" name="Групова динаміка та комунікації" lecturer_id="">
+      <Event id="39" type="Practice" groups="2" lecturer_id="17" />
+    </Subject>
+    <Subject id="28" name="Дискретна математика" lecturer_id="">
+      <Event id="40" type="Lecture" groups="11,12,13" lecturer_id="186" />
+      <Event id="41" type="Practice" groups="13" lecturer_id="186" />
+      <Event id="42" type="Practice" groups="12" lecturer_id="186" />
+      <Event id="43" type="Practice" groups="11" lecturer_id="186" />
+      <Event id="44" type="Practice" groups="15" once_in_two_weeks="true" lecturer_id="186" />
+      <Event id="45" type="Practice" groups="14" once_in_two_weeks="true" lecturer_id="186" />
+      <Event id="46" type="Lecture" groups="29,30,31" once_in_two_weeks="true" lecturer_id="156" />
+      <Event id="47" type="Practice" groups="29" once_in_two_weeks="true" lecturer_id="156" />
+      <Event id="48" type="Practice" groups="30" once_in_two_weeks="true" lecturer_id="156" />
+      <Event id="49" type="Practice" groups="31" once_in_two_weeks="true" lecturer_id="156" />
+    </Subject>
+    <Subject id="29" name="Дискретні структури" lecturer_id="">
+      <Event id="50" type="Lecture" groups="2" lecturer_id="55" />
+      <Event id="51" type="Practice" groups="2" once_in_two_weeks="true" lecturer_id="55" />
+    </Subject>
+    <Subject id="30" name="Дистанційні платформи та технології навчання" lecturer_id="">
+      <Event id="52" type="Assigned" groups="26,27" hard_assigned_room="29" lecturer_id="18" />
+      <Event id="53" type="Assigned" groups="26,27" hard_assigned_room="29" lecturer_id="18" />
+    </Subject>
+    <Subject id="31" name="Диференційні рівняння" lecturer_id="">
+      <Event id="54" type="Lecture" groups="16,17" lecturer_id="111" />
+      <Event id="55" type="Practice" groups="16" once_in_two_weeks="true" lecturer_id="111" />
+      <Event id="56" type="Practice" groups="17" once_in_two_weeks="true" lecturer_id="111" />
+    </Subject>
+    <Subject id="32" name="Дослідження операцій" lecturer_id="">
+      <Event id="57" type="Lecture" groups="28" lecturer_id="134" />
+      <Event id="58" type="Practice" groups="28" once_in_two_weeks="true" lecturer_id="134" />
+    </Subject>
+    <Subject id="33" name="Екологія" lecturer_id="">
+      <Event id="59" type="Lecture" groups="2,14,15,32,33" once_in_two_weeks="true" lecturer_id="5" />
+      <Event id="60" type="Practice" groups="32" once_in_two_weeks="true" lecturer_id="5" />
+      <Event id="61" type="Practice" groups="33" once_in_two_weeks="true" lecturer_id="5" />
+      <Event id="63" type="Practice" groups="14" once_in_two_weeks="true" lecturer_id="5" />
+      <Event id="64" type="Practice" groups="15" once_in_two_weeks="true" lecturer_id="5" />
+      <Event id="65" type="Practice" groups="2" once_in_two_weeks="true" lecturer_id="5" />
+    </Subject>
+    <Subject id="34" name="Економіка виробництва" lecturer_id="">
+      <Event id="66" type="Practice" groups="0" lecturer_id="93" />
+      <Event id="67" type="Practice" groups="4" lecturer_id="93" />
+      <Event id="68" type="Practice" groups="5" lecturer_id="93" />
+      <Event id="69" type="Practice" groups="18" lecturer_id="7" />
+      <Event id="70" type="Practice" groups="19" lecturer_id="7" />
+      <Event id="71" type="Practice" groups="20" lecturer_id="7" />
+    </Subject>
+    <Subject id="35" name="Економіка та організація виробництва" lecturer_id="">
+      <Event id="72" type="Lecture" groups="0,4,5,18,19,20" lecturer_id="7" />
+    </Subject>
+    <Subject id="36" name="Економічна теорія" lecturer_id="" />
+    <Subject id="37" name="Експертні системи" lecturer_id="" />
+    <Subject id="38" name="Експертно-навчальні системи" lecturer_id="">
+      <Event id="73" type="Lecture" groups="10" lecturer_id="186" />
+      <Event id="74" type="Practice" groups="10" once_in_two_weeks="true" lecturer_id="186" />
+    </Subject>
+    <Subject id="39" name="Емпірічні методи програмної інженерії" lecturer_id="">
+      <Event id="75" type="Lecture" groups="0" lecturer_id="91" />
+      <Event id="76" type="Practice" groups="0" once_in_two_weeks="true" lecturer_id="91" />
+    </Subject>
+    <Subject id="40" name="Засоби захисту інформації" lecturer_id="">
+      <Event id="77" type="Lecture" groups="24,25" lecturer_id="84" />
+      <Event id="78" type="Laboratory" groups="24,25" lecturer_id="57" />
+    </Subject>
+    <Subject id="41" name="Захист інформації" lecturer_id="">
+      <Event id="79" type="Lecture" groups="35,36,37" lecturer_id="187" />
+      <Event id="80" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="123" />
+      <Event id="81" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="137" />
+      <Event id="82" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="137" />
+    </Subject>
+    <Subject id="42" name="Захист інформації в комп’ютерних системах" lecturer_id="">
+      <Event id="83" type="Lecture" groups="29,30,31" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="84" type="Practice" groups="29" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="85" type="Practice" groups="30" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="86" type="Practice" groups="31" once_in_two_weeks="true" lecturer_id="100" />
+    </Subject>
+    <Subject id="43" name="Інженерна графіка" lecturer_id="">
+      <Event id="87" type="Lecture" groups="29,30,31" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="88" type="Practice" groups="29" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="89" type="Practice" groups="30" once_in_two_weeks="true" lecturer_id="100" />
+      <Event id="90" type="Practice" groups="31" once_in_two_weeks="true" lecturer_id="100" />
+    </Subject>
+    <Subject id="44" name="Інженерні Задачі" lecturer_id="" />
+    <Subject id="45" name="Іноземна мова" lecturer_id="" />
+    <Subject id="46" name="Інтелектуальна власність" lecturer_id="" />
+    <Subject id="47" name="Інформаційна стійкість комп'ютерних технологій" lecturer_id="" />
+    <Subject id="48" name="Інформаційна стійкість комп'ютерних технологій та мереж" lecturer_id="">
+      <Event id="91" type="Laboratory" groups="26,27" lecturer_id="190" />
+      <Event id="92" type="Laboratory" groups="26" lecturer_id="190" />
+      <Event id="93" type="Laboratory" groups="27" lecturer_id="190" />
+    </Subject>
+    <Subject id="49" name="Історія науки і техніки" lecturer_id="">
+      <Event id="94" type="Lecture" groups="16,17" lecturer_id="99" />
+    </Subject>
+    <Subject id="50" name="Історія України" lecturer_id="" />
+    <Subject id="51" name="Історія української культури" lecturer_id="">
+      <Event id="95" type="Lecture" groups="3,16,17,35,36,37" lecturer_id="24" />
+      <Event id="96" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="24" />
+      <Event id="97" type="Practice" groups="16" once_in_two_weeks="true" lecturer_id="24" />
+      <Event id="98" type="Practice" groups="35" once_in_two_weeks="true" lecturer_id="24" />
+      <Event id="99" type="Practice" groups="36" once_in_two_weeks="true" lecturer_id="24" />
+      <Event id="100" type="Practice" groups="37" once_in_two_weeks="true" lecturer_id="24" />
+      <Event id="101" type="Practice" groups="17" once_in_two_weeks="true" lecturer_id="104" />
+    </Subject>
+    <Subject id="52" name="Комп'ютерна алгебра" lecturer_id="">
+      <Event id="102" type="Lecture" groups="15,14" lecturer_id="32" />
+      <Event id="103" type="Practice" groups="15" once_in_two_weeks="true" lecturer_id="32" />
+      <Event id="104" type="Practice" groups="14" once_in_two_weeks="true" lecturer_id="32" />
+    </Subject>
+    <Subject id="53" name="Комп'ютерна арифметика" lecturer_id="" />
+    <Subject id="54" name="Комп'ютерна графіка" lecturer_id="" />
+    <Subject id="55" name="Комп'ютерна дискретна математика" lecturer_id="">
+      <Event id="105" type="Practice" groups="1" lecturer_id="55" />
+      <Event id="106" type="Practice" groups="1" lecturer_id="55" />
+    </Subject>
+    <Subject id="56" name="Комп'ютерна криптографія" lecturer_id="">
+      <Event id="107" type="Lecture" groups="21,25" lecturer_id="190" />
+      <Event id="108" type="Laboratory" groups="21" lecturer_id="190" />
+      <Event id="109" type="Laboratory" groups="25" lecturer_id="190" />
+    </Subject>
+    <Subject id="57" name="Комп'ютерна логіка" lecturer_id="">
+      <Event id="110" type="Lecture" groups="32,33" lecturer_id="184" />
+      <Event id="111" type="Lecture" groups="32,33" lecturer_id="184" />
+      <Event id="112" type="Lecture" groups="2" lecturer_id="43" />
+      <Event id="113" type="Lecture" groups="2" once_in_two_weeks="true" lecturer_id="43" />
+    </Subject>
+    <Subject id="58" name="Комп'ютерна схемотехніка" lecturer_id="">
+      <Event id="114" type="Lecture" groups="35,36,37" lecturer_id="75" />
+      <Event id="115" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="116" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="117" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="128" />
+    </Subject>
+    <Subject id="59" name="Комп'ютерні системи штучного інтелекту" lecturer_id="">
+      <Event id="118" type="Lecture" groups="21,22,23,24" lecturer_id="63" />
+      <Event id="119" type="Laboratory" groups="21,22" once_in_two_weeks="true" lecturer_id="63" />
+      <Event id="120" type="Laboratory" groups="24" once_in_two_weeks="true" lecturer_id="63" />
+      <Event id="121" type="Laboratory" groups="23" once_in_two_weeks="true" lecturer_id="49" />
+    </Subject>
+    <Subject id="60" name="Комп’ютерна електроніка" lecturer_id="">
+      <Event id="122" type="Lecture" groups="35,36,37" once_in_two_weeks="true" lecturer_id="161" />
+      <Event id="123" type="Practice" groups="35" once_in_two_weeks="true" lecturer_id="161" />
+      <Event id="124" type="Practice" groups="36" once_in_two_weeks="true" lecturer_id="161" />
+      <Event id="125" type="Practice" groups="37" once_in_two_weeks="true" lecturer_id="161" />
+    </Subject>
+    <Subject id="61" name="Комп’ютерне забезпечення телекомунікацій" lecturer_id="">
+      <Event id="126" type="Lecture" groups="18,19,20" lecturer_id="128" />
+      <Event id="127" type="Laboratory" groups="19" lecturer_id="128" />
+      <Event id="128" type="Laboratory" groups="18" lecturer_id="128" />
+      <Event id="129" type="Laboratory" groups="20" lecturer_id="128" />
+    </Subject>
+    <Subject id="62" name="Комп’ютерні мережі" lecturer_id="">
+      <Event id="130" type="Lecture" groups="0,18,19,20" lecturer_id="135" />
+      <Event id="131" type="Laboratory" groups="0" lecturer_id="135" />
+      <Event id="132" type="Laboratory" groups="18" lecturer_id="135" />
+      <Event id="133" type="Laboratory" groups="19" lecturer_id="135" />
+      <Event id="134" type="Laboratory" groups="20" lecturer_id="135" />
+    </Subject>
+    <Subject id="63" name="Комп’ютерні системи" lecturer_id="">
+      <Event id="135" type="Lecture" groups="18,19,20" lecturer_id="156" />
+      <Event id="136" type="Laboratory" groups="20" lecturer_id="156" />
+      <Event id="137" type="Laboratory" groups="19" lecturer_id="156" />
+      <Event id="138" type="Laboratory" groups="18" lecturer_id="156" />
+    </Subject>
+    <Subject id="64" name="Комп’ютерні системи автоматичної ідентифікації" lecturer_id="" />
+    <Subject id="65" name="Конструювання програмного забезпечення" lecturer_id="">
+      <Event id="139" type="Lecture" groups="3" lecturer_id="91" />
+      <Event id="140" type="Laboratory" groups="3" once_in_two_weeks="true" lecturer_id="17" />
+    </Subject>
+    <Subject id="66" name="Культорологія" lecturer_id="" />
+    <Subject id="67" name="Лінійна алгебра" lecturer_id="">
+      <Event id="141" type="Practice" groups="1" lecturer_id="182" />
+      <Event id="142" type="Practice" groups="1" lecturer_id="182" />
+      <Event id="143" type="Practice" groups="29" lecturer_id="182" />
+      <Event id="144" type="Practice" groups="30" lecturer_id="182" />
+      <Event id="145" type="Practice" groups="31" lecturer_id="182" />
+      <Event id="146" type="Lecture" groups="29,30,31" lecturer_id="182" />
+    </Subject>
+    <Subject id="68" name="Лінійна алгебра та аналітична геометрія" lecturer_id="" />
+    <Subject id="69" name="Логічне програмування" lecturer_id="" />
+    <Subject id="70" name="Локальні мережі" lecturer_id="">
+      <Event id="147" type="Lecture" groups="21" lecturer_id="135" />
+      <Event id="148" type="Laboratory" groups="21" lecturer_id="128" />
+    </Subject>
+    <Subject id="71" name="Людинно-машинна взаємодія" lecturer_id="" />
+    <Subject id="73" name="людинно-машинний інтерфейс" lecturer_id="" />
+    <Subject id="74" name="Маркетинг" lecturer_id="">
+      <Event id="149" type="Lecture" groups="21,22,23" once_in_two_weeks="true" lecturer_id="224" />
+    </Subject>
+    <Subject id="75" name="Математична логіка" lecturer_id="" />
+    <Subject id="76" name="Математичне моделювання" lecturer_id="" />
+    <Subject id="77" name="Математичне моделювання систем та процесів" lecturer_id="">
+      <Event id="150" type="Lecture" groups="28" lecturer_id="134" />
+      <Event id="151" type="Laboratory" groups="28" once_in_two_weeks="true" lecturer_id="134" />
+    </Subject>
+    <Subject id="78" name="Математичне моделювання та системний аналіз" lecturer_id="">
+      <Event id="152" type="Lecture" groups="4,5" lecturer_id="98" />
+      <Event id="153" type="Practice" groups="4" once_in_two_weeks="true" lecturer_id="98" />
+      <Event id="154" type="Practice" groups="5" once_in_two_weeks="true" lecturer_id="98" />
+    </Subject>
+    <Subject id="79" name="Математичний аналіз" lecturer_id="">
+      <Event id="411" type="Lecture" groups="32,33" lecturer_id="14" />
+      <Event id="412" type="Practice" groups="32" lecturer_id="14" />
+      <Event id="413" type="Practice" groups="33" lecturer_id="14" />
+      <Event id="414" type="Practice" groups="2" lecturer_id="14" />
+      <Event id="415" type="Practice" groups="1" lecturer_id="14" />
+      <Event id="416" type="Practice" groups="1" once_in_two_weeks="true" lecturer_id="14" />
+      <Event id="417" type="Practice" groups="2" once_in_two_weeks="true" lecturer_id="14" />
+      <Event id="418" type="Lecture" groups="29,30,31" lecturer_id="124" />
+      <Event id="419" type="Practice" groups="29" lecturer_id="124" />
+      <Event id="420" type="Lecture" groups="2" lecturer_id="182" />
+      <Event id="421" type="Lecture" groups="1" lecturer_id="182" />
+      <Event id="422" type="Practice" groups="30" lecturer_id="205" />
+      <Event id="423" type="Practice" groups="31" lecturer_id="205" />
+      <Event id="424" type="Practice" groups="12" lecturer_id="171" />
+      <Event id="425" type="Practice" groups="11" lecturer_id="171" />
+      <Event id="426" type="Practice" groups="12" once_in_two_weeks="true" lecturer_id="171" />
+      <Event id="427" type="Practice" groups="11" once_in_two_weeks="true" lecturer_id="171" />
+      <Event id="428" type="Lecture" groups="13,12,11" lecturer_id="111" />
+      <Event id="429" type="Lecture" groups="11,12,13" once_in_two_weeks="true" lecturer_id="111" />
+      <Event id="430" type="Practice" groups="13" lecturer_id="111" />
+      <Event id="431" type="Practice" groups="13" once_in_two_weeks="true" lecturer_id="111" />
+      <Event id="432" type="Lecture" groups="15,14" lecturer_id="212" />
+      <Event id="433" type="Practice" groups="15" lecturer_id="212" />
+      <Event id="434" type="Practice" groups="14" lecturer_id="212" />
+    </Subject>
+    <Subject id="80" name="Математичні методи оптимізації" lecturer_id="" />
+    <Subject id="81" name="Математичні моделі" lecturer_id="" />
+    <Subject id="82" name="Менеджмент" lecturer_id="" />
+    <Subject id="83" name="Менеджмент Проектів" lecturer_id="" />
+    <Subject id="84" name="Менеджмент проектів ПЗ" lecturer_id="">
+      <Event id="155" type="Lecture" groups="3" lecturer_id="109" />
+      <Event id="156" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="109" />
+      <Event id="157" type="Laboratory" groups="3" once_in_two_weeks="true" lecturer_id="109" />
+    </Subject>
+    <Subject id="85" name="Мережі ЕОМ" lecturer_id="" />
+    <Subject id="86" name="Мережні інформаційні технології" lecturer_id="" />
+    <Subject id="87" name="Методи оптимізації" lecturer_id="">
+      <Event id="158" type="Lecture" groups="16,17" once_in_two_weeks="true" lecturer_id="98" />
+      <Event id="159" type="Practice" groups="16" lecturer_id="98" />
+      <Event id="160" type="Practice" groups="17" lecturer_id="98" />
+    </Subject>
+    <Subject id="88" name="Методи теорії надійності та ризику" lecturer_id="">
+      <Event id="161" type="Lecture" groups="9,21" lecturer_id="186" />
+    </Subject>
+    <Subject id="89" name="Мікропроцесорні системи" lecturer_id="" />
+    <Subject id="90" name="ММС" lecturer_id="" />
+    <Subject id="91" name="Мови програмування" lecturer_id="">
+      <Event id="162" type="Lecture" groups="15,14" once_in_two_weeks="true" lecturer_id="107" />
+      <Event id="163" type="Practice" groups="14,15" lecturer_id="107" />
+      <Event id="164" type="Laboratory" groups="15" lecturer_id="50" />
+      <Event id="165" type="Laboratory" groups="14" lecturer_id="37" />
+    </Subject>
+    <Subject id="92" name="Мови та системи подання знань" lecturer_id="" />
+    <Subject id="93" name="Моделювання" lecturer_id="">
+      <Event id="166" type="Lecture" groups="35,36,37,18,19,20" lecturer_id="227" />
+      <Event id="167" type="Practice" groups="18" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="168" type="Practice" groups="19" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="169" type="Practice" groups="20" once_in_two_weeks="true" lecturer_id="128" />
+      <Event id="170" type="Practice" groups="35" once_in_two_weeks="true" lecturer_id="151" />
+      <Event id="171" type="Practice" groups="37" once_in_two_weeks="true" lecturer_id="151" />
+      <Event id="172" type="Practice" groups="36" once_in_two_weeks="true" lecturer_id="151" />
+    </Subject>
+    <Subject id="94" name="Моделювання і проектування інформаційних систем" lecturer_id="">
+      <Event id="173" type="Laboratory" groups="25" once_in_two_weeks="true" lecturer_id="137" />
+      <Event id="174" type="Laboratory" groups="25" lecturer_id="137" />
+    </Subject>
+    <Subject id="95" name="Моделювання програмного забезпечення" lecturer_id="" />
+    <Subject id="96" name="Моделювання складних систем" lecturer_id="">
+      <Event id="175" type="Lecture" groups="8,9" lecturer_id="125" />
+      <Event id="176" type="Lecture" groups="8,9" once_in_two_weeks="true" lecturer_id="125" />
+      <Event id="177" type="Practice" groups="9" once_in_two_weeks="true" lecturer_id="212" />
+      <Event id="178" type="Practice" groups="8" once_in_two_weeks="true" lecturer_id="98" />
+      <Event id="179" type="Laboratory" groups="9" once_in_two_weeks="true" lecturer_id="98" />
+      <Event id="180" type="Laboratory" groups="8" once_in_two_weeks="true" lecturer_id="98" />
+    </Subject>
+    <Subject id="97" name="Моделювання та аналіз ПЗ" lecturer_id="" />
+    <Subject id="98" name="Мультимедійні засоби" lecturer_id="">
+      <Event id="181" type="Laboratory" groups="21,22" lecturer_id="151" />
+      <Event id="182" type="Laboratory" groups="23" lecturer_id="91" />
+      <Event id="183" type="Laboratory" groups="24" lecturer_id="55" />
+      <Event id="184" type="Lecture" groups="21,22,23,24" lecturer_id="181" />
+    </Subject>
+    <Subject id="99" name="Мультимедійні засоби в комп'ютерних системах" lecturer_id="" />
+    <Subject id="100" name="Мультимедійні засоби комп’ютерної техніки" lecturer_id="" />
+    <Subject id="101" name="Надійність програмного забезпечення" lecturer_id="">
+      <Event id="185" type="Practice" groups="24" once_in_two_weeks="true" lecturer_id="44" />
+      <Event id="186" type="Practice" groups="24" once_in_two_weeks="true" lecturer_id="44" />
+      <Event id="187" type="Laboratory" groups="24" lecturer_id="44" />
+    </Subject>
+    <Subject id="102" name="Напр. досл. і розв. СП" lecturer_id="">
+      <Event id="188" type="Lecture" groups="22" once_in_two_weeks="true" lecturer_id="218" />
+      <Event id="189" type="Laboratory" groups="22" lecturer_id="218" />
+    </Subject>
+    <Subject id="103" name="Напрямки дослідження та розвитку КСМ" lecturer_id="">
+      <Event id="191" type="Practice" groups="26" once_in_two_weeks="true" lecturer_id="184" />
+      <Event id="190" type="Practice" groups="21" once_in_two_weeks="true" lecturer_id="184" />
+    </Subject>
+    <Subject id="104" name="Напрямки дослідження та розвитку СКС" lecturer_id="">
+      <Event id="192" type="Practice" groups="27" lecturer_id="184" />
+      <Event id="193" type="Practice" groups="23" lecturer_id="184" />
+    </Subject>
+    <Subject id="105" name="Науково-дослідна діяльність в комп'ютерній інженерії" lecturer_id="">
+      <Event id="194" type="Lecture" groups="21,23,22" once_in_two_weeks="true" lecturer_id="155" />
+      <Event id="195" type="Lecture" groups="22,21,23" once_in_two_weeks="true" lecturer_id="155" />
+    </Subject>
+    <Subject id="106" name="Нежорсткі методи теорії" lecturer_id="" />
+    <Subject id="107" name="Нежорсткі методи теорії обчислення" lecturer_id="">
+      <Event id="197" type="Laboratory" groups="21" once_in_two_weeks="true" lecturer_id="212" />
+      <Event id="196" type="Lecture" groups="9,21" lecturer_id="212" />
+      <Event id="198" type="Laboratory" groups="9" once_in_two_weeks="true" lecturer_id="212" />
+    </Subject>
+    <Subject id="108" name="Об'єктно-орієнтований аналіз і проектування інформаційних систем" lecturer_id="">
+      <Event id="199" type="Practice" groups="28" lecturer_id="137" />
+      <Event id="200" type="Laboratory" groups="28" once_in_two_weeks="true" lecturer_id="137" />
+    </Subject>
+    <Subject id="109" name="Об‘єктно-орієнтоване програмування" lecturer_id="">
+      <Event id="201" type="Lecture" groups="32,33" lecturer_id="63" />
+      <Event id="202" type="Laboratory" groups="33" once_in_two_weeks="true" lecturer_id="63" />
+      <Event id="203" type="Lecture" groups="2" lecturer_id="140" />
+      <Event id="204" type="Laboratory" groups="2" once_in_two_weeks="true" lecturer_id="140" />
+      <Event id="205" type="Laboratory" groups="3" once_in_two_weeks="true" lecturer_id="84" />
+      <Event id="206" type="Lecture" groups="3" lecturer_id="84" />
+      <Event id="207" type="Laboratory" groups="32" once_in_two_weeks="true" lecturer_id="49" />
+    </Subject>
+    <Subject id="110" name="Обчислювальні системи" lecturer_id="">
+      <Event id="208" type="Lecture" groups="16,17" lecturer_id="86" />
+      <Event id="209" type="Practice" groups="16" once_in_two_weeks="true" lecturer_id="86" />
+      <Event id="210" type="Practice" groups="17" once_in_two_weeks="true" lecturer_id="86" />
+    </Subject>
+    <Subject id="111" name="Операційні системи" lecturer_id="">
+      <Event id="211" type="Lecture" groups="5,4" lecturer_id="86" />
+      <Event id="212" type="Laboratory" groups="5" lecturer_id="86" />
+      <Event id="213" type="Laboratory" groups="4" lecturer_id="86" />
+    </Subject>
+    <Subject id="112" name="Операційні системи та системне програмування" lecturer_id="">
+      <Event id="215" type="Laboratory" groups="0" once_in_two_weeks="true" lecturer_id="49" />
+      <Event id="214" type="Lecture" groups="0" lecturer_id="49" />
+    </Subject>
+    <Subject id="113" name="Організація баз даних" lecturer_id="">
+      <Event id="216" type="Lecture" groups="0" lecturer_id="60" />
+      <Event id="217" type="Lecture" groups="35,36,37" lecturer_id="60" />
+      <Event id="218" type="Laboratory" groups="0" once_in_two_weeks="true" lecturer_id="60" />
+      <Event id="219" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="60" />
+      <Event id="220" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="140" />
+      <Event id="221" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="140" />
+    </Subject>
+    <Subject id="114" name="ОС та СП" lecturer_id="" />
+    <Subject id="115" name="Основи банківської діяльності" lecturer_id="" />
+    <Subject id="116" name="Основи електричних кіл" lecturer_id="" />
+    <Subject id="117" name="Основи електротехніки" lecturer_id="" />
+    <Subject id="118" name="Основи менеджменту" lecturer_id="" />
+    <Subject id="119" name="Основи наукових досліджень" lecturer_id="">
+      <Event id="222" type="Practice" groups="24,25" lecturer_id="181" />
+      <Event id="223" type="Practice" groups="28" lecturer_id="181" />
+      <Event id="224" type="Practice" groups="9,8" lecturer_id="115" />
+      <Event id="225" type="Practice" groups="10" lecturer_id="115" />
+    </Subject>
+    <Subject id="120" name="Основи охорони праці" lecturer_id="">
+      <Event id="226" type="Lecture" groups="0,4,5,18,19,20" lecturer_id="105" />
+      <Event id="227" type="Assigned" groups="0" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+      <Event id="228" type="Assigned" groups="4" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+      <Event id="229" type="Assigned" groups="5" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+      <Event id="230" type="Assigned" groups="18" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+      <Event id="231" type="Assigned" groups="19" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+      <Event id="232" type="Assigned" groups="20" hard_assigned_room="41" once_in_two_weeks="true" lecturer_id="105" />
+    </Subject>
+    <Subject id="121" name="Основи підприємництва" lecturer_id="" />
+    <Subject id="122" name="Основи програмної інженерії" lecturer_id="">
+      <Event id="233" type="Lecture" groups="1" lecturer_id="112" />
+      <Event id="234" type="Laboratory" groups="1" lecturer_id="192" />
+      <Event id="235" type="Practice" groups="1" once_in_two_weeks="true" lecturer_id="192" />
+    </Subject>
+    <Subject id="123" name="Основи програмування" lecturer_id="">
+      <Event id="236" type="Lecture" groups="1" lecturer_id="84" />
+      <Event id="237" type="Laboratory" groups="1" lecturer_id="192" />
+    </Subject>
+    <Subject id="124" name="Основи проектування трансляторів" lecturer_id="" />
+    <Subject id="125" name="Основи системного аналізу" lecturer_id="" />
+    <Subject id="126" name="Основи сталого розвитку суспільства" lecturer_id="">
+      <Event id="238" type="Lecture" groups="10,26,27,28" lecturer_id="219" />
+    </Subject>
+    <Subject id="127" name="Охорона Праці" lecturer_id="" />
+    <Subject id="128" name="Охорона праці в галузі" lecturer_id="" />
+    <Subject id="129" name="Паралельні та розподілені обчислення" lecturer_id="" />
+    <Subject id="130" name="Паралельні та розподілені процеси" lecturer_id="" />
+    <Subject id="131" name="Патентознавство" lecturer_id="" />
+    <Subject id="132" name="Патентознавство та авторське право" lecturer_id="">
+      <Event id="239" type="Lecture" groups="27,28,26,10" lecturer_id="97" />
+    </Subject>
+    <Subject id="133" name="Педагогіка вищої школи" lecturer_id="" />
+    <Subject id="134" name="Периферійні пристрої" lecturer_id="">
+      <Event id="240" type="Lecture" groups="35,36,37" lecturer_id="146" />
+      <Event id="241" type="Laboratory" groups="35" once_in_two_weeks="true" lecturer_id="146" />
+      <Event id="242" type="Laboratory" groups="36" once_in_two_weeks="true" lecturer_id="146" />
+      <Event id="243" type="Laboratory" groups="37" once_in_two_weeks="true" lecturer_id="146" />
+    </Subject>
+    <Subject id="135" name="ПЗ обчислювальних систем" lecturer_id="">
+      <Event id="244" type="Lecture" groups="13,12,11" once_in_two_weeks="true" lecturer_id="132" />
+      <Event id="245" type="Lecture" groups="11" lecturer_id="37" />
+    </Subject>
+    <Subject id="136" name="Політологія" lecturer_id="" />
+    <Subject id="137" name="Правознавство" lecturer_id="">
+      <Event id="246" type="Lecture" groups="0,4,5,18,19,20" lecturer_id="223" />
+    </Subject>
+    <Subject id="138" name="Прийняття рішень в конфліктних ситуаціях" lecturer_id="">
+      <Event id="247" type="Lecture" groups="10" lecturer_id="169" />
+    </Subject>
+    <Subject id="139" name="Прикладна алгебра" lecturer_id="" />
+    <Subject id="140" name="Прикладна теорія цифрових автоматів" lecturer_id="" />
+    <Subject id="141" name="Прикладні задачі ПІ" lecturer_id="">
+      <Event id="248" type="Lecture" groups="24,25" lecturer_id="182" />
+    </Subject>
+    <Subject id="142" name="Програмне забезпечення ВКС" lecturer_id="" />
+    <Subject id="143" name="Програмне забезпечення ЕОМ" lecturer_id="">
+      <Event id="249" type="Lecture" groups="4,5" lecturer_id="132" />
+      <Event id="250" type="Laboratory" groups="0" lecturer_id="132" />
+      <Event id="251" type="Laboratory" groups="5" lecturer_id="132" />
+      <Event id="252" type="Laboratory" groups="4" once_in_two_weeks="true" lecturer_id="132" />
+      <Event id="253" type="Laboratory" groups="5" once_in_two_weeks="true" lecturer_id="132" />
+    </Subject>
+    <Subject id="144" name="Програмне забезпечення ОС" lecturer_id="">
+      <Event id="254" type="Lecture" groups="12" lecturer_id="186" />
+      <Event id="255" type="Lecture" groups="1" lecturer_id="132" />
+    </Subject>
+    <Subject id="145" name="Програмне забезпечення СКС" lecturer_id="">
+      <Event id="256" type="Lecture" groups="23" lecturer_id="58" />
+      <Event id="257" type="Laboratory" groups="23" lecturer_id="58" />
+    </Subject>
+    <Subject id="146" name="Програмування" lecturer_id="">
+      <Event id="258" type="Lecture" groups="29,30,31" lecturer_id="183" />
+      <Event id="259" type="Laboratory" groups="29" lecturer_id="183" />
+      <Event id="260" type="Laboratory" groups="30" lecturer_id="183" />
+      <Event id="261" type="Laboratory" groups="31" lecturer_id="183" />
+      <Event id="262" type="Laboratory" groups="29" lecturer_id="143" />
+      <Event id="263" type="Laboratory" groups="30" lecturer_id="143" />
+      <Event id="264" type="Laboratory" groups="31" lecturer_id="143" />
+      <Event id="265" type="Laboratory" groups="13" lecturer_id="37" />
+      <Event id="266" type="Laboratory" groups="11" lecturer_id="37" />
+      <Event id="267" type="Lecture" groups="13,12,11" lecturer_id="132" />
+      <Event id="268" type="Laboratory" groups="12" lecturer_id="186" />
+    </Subject>
+    <Subject id="147" name="Програмування вбудованих КС" lecturer_id="" />
+    <Subject id="148" name="Програмування інтерфейсу користувача" lecturer_id="" />
+    <Subject id="149" name="Програмування комп'ютерних мереж" lecturer_id="" />
+    <Subject id="150" name="Програмування пристроїв зв'язку" lecturer_id="">
+      <Event id="270" type="Laboratory" groups="23" once_in_two_weeks="true" lecturer_id="146" />
+      <Event id="269" type="Lecture" groups="23" lecturer_id="146" />
+    </Subject>
+    <Subject id="151" name="Програмування систем штучного інтелекту" lecturer_id="">
+      <Event id="271" type="Lecture" groups="28" lecturer_id="63" />
+      <Event id="272" type="Laboratory" groups="28" once_in_two_weeks="true" lecturer_id="63" />
+    </Subject>
+    <Subject id="152" name="Програмування та обчислювальна техніка" lecturer_id="" />
+    <Subject id="153" name="Проектний практикум" lecturer_id="" />
+    <Subject id="154" name="Проектування web-додатків" lecturer_id="" />
+    <Subject id="155" name="Проектування автоматизованих систем" lecturer_id="">
+      <Event id="273" type="Lecture" groups="9,8" lecturer_id="188" />
+      <Event id="274" type="Laboratory" groups="9" once_in_two_weeks="true" lecturer_id="188" />
+      <Event id="275" type="Laboratory" groups="8" once_in_two_weeks="true" lecturer_id="188" />
+    </Subject>
+    <Subject id="156" name="Проектування вбудованих КС" lecturer_id="">
+      <Event id="277" type="Laboratory" groups="23" once_in_two_weeks="true" lecturer_id="146" />
+      <Event id="276" type="Lecture" groups="23" lecturer_id="146" />
+    </Subject>
+    <Subject id="157" name="Проектування корпоративних інформаційних систем" lecturer_id="">
+      <Event id="278" type="Lecture" groups="24" lecturer_id="137" />
+      <Event id="279" type="Laboratory" groups="24" once_in_two_weeks="true" lecturer_id="137" />
+    </Subject>
+    <Subject id="158" name="Проектування КСМ" lecturer_id="" />
+    <Subject id="159" name="Проектування систем з розподіленими БД" lecturer_id="" />
+    <Subject id="160" name="Проектування СКС на ПЛІС" lecturer_id="" />
+    <Subject id="161" name="Проф. практ." lecturer_id="" />
+    <Subject id="162" name="Професійна практика програмної інженерії" lecturer_id="">
+      <Event id="280" type="Practice" groups="0" lecturer_id="17" />
+      <Event id="281" type="Practice" groups="0" lecturer_id="17" />
+    </Subject>
+    <Subject id="163" name="Психологія" lecturer_id="" />
+    <Subject id="164" name="Релігієзнавство" lecturer_id="" />
+    <Subject id="165" name="Рівняння математичної фізики" lecturer_id="" />
+    <Subject id="166" name="Сертифікація, стандартизація" lecturer_id="">
+      <Event id="282" type="Lecture" groups="24" lecturer_id="109" />
+    </Subject>
+    <Subject id="167" name="Системи автоматизованого проектування" lecturer_id="" />
+    <Subject id="168" name="Системи передачі даних" lecturer_id="" />
+    <Subject id="169" name="Системи підтримки прийняття рішень" lecturer_id="">
+      <Event id="283" type="Lecture" groups="22" lecturer_id="151" />
+      <Event id="284" type="Laboratory" groups="22" once_in_two_weeks="true" lecturer_id="151" />
+    </Subject>
+    <Subject id="170" name="Системи програмування" lecturer_id="" />
+    <Subject id="171" name="Системи штучного інтелекту" lecturer_id="" />
+    <Subject id="172" name="Системне програмне забезпечення" lecturer_id="" />
+    <Subject id="173" name="Системне програмування" lecturer_id="">
+      <Event id="285" type="Lecture" groups="32,33" lecturer_id="190" />
+      <Event id="286" type="Laboratory" groups="32" once_in_two_weeks="true" lecturer_id="190" />
+      <Event id="287" type="Laboratory" groups="33" once_in_two_weeks="true" lecturer_id="190" />
+      <Event id="289" type="Lecture" groups="3" lecturer_id="49" />
+      <Event id="290" type="Laboratory" groups="3" once_in_two_weeks="true" lecturer_id="49" />
+    </Subject>
+    <Subject id="174" name="Соціальна психологія" lecturer_id="">
+      <Event id="291" type="Lecture" groups="35,36,37,3" lecturer_id="62" />
+    </Subject>
+    <Subject id="175" name="Соціологія" lecturer_id="" />
+    <Subject id="176" name="Спеціалізовані СОД" lecturer_id="">
+      <Event id="292" type="Lecture" groups="10" lecturer_id="169" />
+    </Subject>
+    <Subject id="177" name="Спеціальні мови програмування" lecturer_id="">
+      <Event id="293" type="Lecture" groups="16,17" lecturer_id="157" />
+      <Event id="294" type="Laboratory" groups="16" once_in_two_weeks="true" lecturer_id="157" />
+      <Event id="295" type="Laboratory" groups="17" once_in_two_weeks="true" lecturer_id="157" />
+    </Subject>
+    <Subject id="178" name="Структури даних" lecturer_id="">
+      <Event id="296" type="Lecture" groups="13,12,11" lecturer_id="112" />
+      <Event id="297" type="Practice" groups="13" once_in_two_weeks="true" lecturer_id="112" />
+      <Event id="298" type="Practice" groups="12" once_in_two_weeks="true" lecturer_id="112" />
+      <Event id="299" type="Practice" groups="11" once_in_two_weeks="true" lecturer_id="112" />
+      <Event id="300" type="Laboratory" groups="13" lecturer_id="112" />
+      <Event id="301" type="Laboratory" groups="12" lecturer_id="112" />
+      <Event id="302" type="Laboratory" groups="11" lecturer_id="112" />
+    </Subject>
+    <Subject id="179" name="Структури даних та алгоритми" lecturer_id="" />
+    <Subject id="180" name="Сучасні інформаційні технології" lecturer_id="">
+      <Event id="303" type="Lecture" groups="8,9" once_in_two_weeks="true" lecturer_id="115" />
+    </Subject>
+    <Subject id="181" name="Сучасні операційні системи" lecturer_id="">
+      <Event id="304" type="Lecture" groups="26,27" lecturer_id="18" />
+      <Event id="305" type="Lecture" groups="26,27" lecturer_id="18" />
+    </Subject>
+    <Subject id="182" name="Теорія електричних кіл" lecturer_id="" />
+    <Subject id="183" name="Теорія і проектування КСМ" lecturer_id="" />
+    <Subject id="184" name="Теорія і проектування СКС" lecturer_id="" />
+    <Subject id="185" name="Теорія інформації та кодування" lecturer_id="">
+      <Event id="306" type="Lecture" groups="1" lecturer_id="55" />
+      <Event id="307" type="Practice" groups="1" once_in_two_weeks="true" lecturer_id="55" />
+    </Subject>
+    <Subject id="186" name="Теорія ймовірностей та математична статистика" lecturer_id="">
+      <Event id="308" type="Lecture" groups="2" lecturer_id="182" />
+      <Event id="309" type="Practice" groups="2" lecturer_id="182" />
+      <Event id="310" type="Lecture" groups="15,14" lecturer_id="32" />
+      <Event id="311" type="Practice" groups="15" lecturer_id="32" />
+      <Event id="312" type="Practice" groups="14" lecturer_id="32" />
+      <Event id="313" type="Lecture" groups="32,33" lecturer_id="161" />
+      <Event id="314" type="Practice" groups="32" lecturer_id="161" />
+      <Event id="315" type="Practice" groups="33" lecturer_id="161" />
+    </Subject>
+    <Subject id="187" name="Теорія керування" lecturer_id="" />
+    <Subject id="188" name="Теорія програмування" lecturer_id="" />
+    <Subject id="189" name="Теорія управління в технічних системах" lecturer_id="" />
+    <Subject id="190" name="Теорія формальних мов та компіляція" lecturer_id="">
+      <Event id="316" type="Laboratory" groups="28" once_in_two_weeks="true" lecturer_id="134" />
+      <Event id="317" type="Lecture" groups="28" lecturer_id="112" />
+    </Subject>
+    <Subject id="191" name="Тестування, надійність, контроль" lecturer_id="">
+      <Event id="318" type="Lecture" groups="21,22,23" lecturer_id="156" />
+      <Event id="319" type="Lecture" groups="21,22,23" once_in_two_weeks="true" lecturer_id="156" />
+      <Event id="320" type="Laboratory" groups="23" once_in_two_weeks="true" lecturer_id="156" />
+      <Event id="321" type="Laboratory" groups="21,22" once_in_two_weeks="true" lecturer_id="151" />
+    </Subject>
+    <Subject id="192" name="Тестування, надійність, контроль ЕОМ" lecturer_id="" />
+    <Subject id="193" name="Тестування, надійність, контроль та діагностика комп'ютерних систем" lecturer_id="" />
+    <Subject id="194" name="Техн. проект. прогр. сист." lecturer_id="">
+      <Event id="322" type="Lecture" groups="22" lecturer_id="218" />
+      <Event id="323" type="Laboratory" groups="22" once_in_two_weeks="true" lecturer_id="218" />
+      <Event id="324" type="Practice" groups="24,25" once_in_two_weeks="true" lecturer_id="44" />
+      <Event id="326" type="Laboratory" groups="25" once_in_two_weeks="true" lecturer_id="44" />
+      <Event id="327" type="Practice" groups="24,25" once_in_two_weeks="true" lecturer_id="44" />
+    </Subject>
+    <Subject id="195" name="Технології прикладного програмування" lecturer_id="">
+      <Event id="328" type="Lecture" groups="24" lecturer_id="12" />
+      <Event id="329" type="Laboratory" groups="24" once_in_two_weeks="true" lecturer_id="12" />
+    </Subject>
+    <Subject id="196" name="Технологія Прикладного Програмування" lecturer_id="" />
+    <Subject id="197" name="Технологія програмування" lecturer_id="" />
+    <Subject id="198" name="Технологія програмування Web-додатків" lecturer_id="" />
+    <Subject id="199" name="Технологія Проектного Програмування" lecturer_id="" />
+    <Subject id="200" name="Технологія проектування комп'ютерних систем" lecturer_id="">
+      <Event id="330" type="Lecture" groups="18,19,20" lecturer_id="82" />
+      <Event id="331" type="Laboratory" groups="18" once_in_two_weeks="true" lecturer_id="82" />
+      <Event id="332" type="Laboratory" groups="19" once_in_two_weeks="true" lecturer_id="82" />
+      <Event id="333" type="Laboratory" groups="20" once_in_two_weeks="true" lecturer_id="82" />
+    </Subject>
+    <Subject id="201" name="Технологія проектування ОС" lecturer_id="" />
+    <Subject id="202" name="Технологія проектування СОД" lecturer_id="" />
+    <Subject id="203" name="Технологія розробки Web-додатків" lecturer_id="">
+      <Event id="334" type="Lecture" groups="21" once_in_two_weeks="true" lecturer_id="140" />
+      <Event id="335" type="Laboratory" groups="21" lecturer_id="140" />
+    </Subject>
+    <Subject id="204" name="Українська мова" lecturer_id="">
+      <Event id="336" type="Lecture" groups="1,11,12,13,29,30,31" once_in_two_weeks="true" lecturer_id="19" />
+      <Event id="337" type="Practice" groups="1" lecturer_id="19" />
+      <Event id="338" type="Practice" groups="11" lecturer_id="19" />
+      <Event id="339" type="Practice" groups="12" lecturer_id="19" />
+      <Event id="340" type="Practice" groups="13" lecturer_id="19" />
+      <Event id="341" type="Practice" groups="29" lecturer_id="19" />
+      <Event id="342" type="Practice" groups="30" lecturer_id="19" />
+      <Event id="343" type="Practice" groups="31" lecturer_id="19" />
+    </Subject>
+    <Subject id="205" name="Фіз.-мат. задачі" lecturer_id="" />
+    <Subject id="206" name="Фізика" lecturer_id="">
+      <Event id="344" type="Lecture" groups="15,14" lecturer_id="173" />
+      <Event id="345" type="Laboratory" groups="15" once_in_two_weeks="true" lecturer_id="173" />
+      <Event id="346" type="Laboratory" groups="14" once_in_two_weeks="true" lecturer_id="173" />
+      <Event id="347" type="Practice" groups="15" once_in_two_weeks="true" lecturer_id="199" />
+      <Event id="348" type="Practice" groups="14" once_in_two_weeks="true" lecturer_id="199" />
+      <Event id="349" type="Lecture" groups="2" lecturer_id="66" />
+      <Event id="350" type="Practice" groups="2" lecturer_id="67" />
+      <Event id="351" type="Practice" groups="2" once_in_two_weeks="true" lecturer_id="66" />
+      <Event id="352" type="Lecture" groups="32,33" lecturer_id="220" />
+      <Event id="353" type="Practice" groups="32" once_in_two_weeks="true" lecturer_id="220" />
+      <Event id="354" type="Practice" groups="33" once_in_two_weeks="true" lecturer_id="220" />
+      <Event id="355" type="Laboratory" groups="33" once_in_two_weeks="true" lecturer_id="220" />
+      <Event id="356" type="Laboratory" groups="32" once_in_two_weeks="true" lecturer_id="1" />
+    </Subject>
+    <Subject id="207" name="Фізико-мат. практикум" lecturer_id="">
+      <Event id="357" type="Practice" groups="3" lecturer_id="109" />
+    </Subject>
+    <Subject id="208" name="Фізична підготовка" lecturer_id="">
+      <Event id="359" type="Assigned" groups="14" hard_assigned_room="48" lecturer_id="241" />
+      <Event id="358" type="Assigned" groups="2" hard_assigned_room="49" lecturer_id="242" />
+      <Event id="360" type="Assigned" groups="15" hard_assigned_room="50" lecturer_id="243" />
+      <Event id="361" type="Assigned" groups="32" hard_assigned_room="51" lecturer_id="244" />
+      <Event id="362" type="Assigned" groups="33" hard_assigned_room="52" lecturer_id="245" />
+      <Event id="364" type="Assigned" groups="1" hard_assigned_room="54" lecturer_id="247" />
+      <Event id="365" type="Assigned" groups="11" hard_assigned_room="55" lecturer_id="248" />
+      <Event id="366" type="Assigned" groups="12" hard_assigned_room="56" lecturer_id="249" />
+      <Event id="367" type="Assigned" groups="13" hard_assigned_room="57" lecturer_id="250" />
+      <Event id="368" type="Assigned" groups="29" hard_assigned_room="58" lecturer_id="251" />
+      <Event id="369" type="Assigned" groups="30" hard_assigned_room="59" lecturer_id="252" />
+      <Event id="370" type="Assigned" groups="31" hard_assigned_room="60" lecturer_id="253" />
+    </Subject>
+    <Subject id="209" name="Фізичне виховання" lecturer_id="">
+      <Event id="372" type="Assigned" groups="14" hard_assigned_room="61" lecturer_id="231" />
+      <Event id="371" type="Assigned" groups="2" hard_assigned_room="62" lecturer_id="232" />
+      <Event id="373" type="Assigned" groups="15" hard_assigned_room="63" lecturer_id="233" />
+      <Event id="374" type="Assigned" groups="32" hard_assigned_room="64" lecturer_id="234" />
+      <Event id="375" type="Assigned" groups="33" hard_assigned_room="65" lecturer_id="235" />
+      <Event id="377" type="Assigned" groups="1" hard_assigned_room="67" lecturer_id="237" />
+      <Event id="378" type="Assigned" groups="1" hard_assigned_room="67" lecturer_id="237" />
+      <Event id="379" type="Assigned" groups="32" hard_assigned_room="69" lecturer_id="239" />
+      <Event id="380" type="Assigned" groups="33" hard_assigned_room="65" lecturer_id="235" />
+    </Subject>
+    <Subject id="210" name="Філософія" lecturer_id="" />
+    <Subject id="211" name="Філософські проблеми наукового пізнання" lecturer_id="">
+      <Event id="381" type="Lecture" groups="10,26,27,28" lecturer_id="126" />
+    </Subject>
+    <Subject id="212" name="Функціональний аналіз" lecturer_id="">
+      <Event id="382" type="Lecture" groups="16,17" lecturer_id="111" />
+      <Event id="383" type="Practice" groups="16" once_in_two_weeks="true" lecturer_id="111" />
+      <Event id="384" type="Practice" groups="17" once_in_two_weeks="true" lecturer_id="111" />
+    </Subject>
+    <Subject id="213" name="Цивільний захист" lecturer_id="">
+      <Event id="391" type="Assigned" groups="21" hard_assigned_room="47" once_in_two_weeks="true" lecturer_id="61" />
+      <Event id="390" type="Assigned" groups="9" hard_assigned_room="47" once_in_two_weeks="true" lecturer_id="61" />
+      <Event id="389" type="Assigned" groups="23" hard_assigned_room="47" once_in_two_weeks="true" lecturer_id="61" />
+      <Event id="388" type="Assigned" groups="21" hard_assigned_room="47" once_in_two_weeks="true" lecturer_id="61" />
+      <Event id="387" type="Assigned" groups="22,24,25" hard_assigned_room="47" once_in_two_weeks="true" lecturer_id="61" />
+      <Event id="386" type="Lecture" groups="8,9,21,23,24,25" once_in_two_weeks="true" lecturer_id="61" />
+    </Subject>
+    <Subject id="214" name="Цифрова обробка інформації" lecturer_id="" />
+    <Subject id="215" name="Цифрова обробка сигналів та зображень" lecturer_id="" />
+    <Subject id="216" name="Чисельні методи" lecturer_id="">
+      <Event id="392" type="Practice" groups="17" once_in_two_weeks="true" lecturer_id="111" />
+      <Event id="393" type="Practice" groups="3" once_in_two_weeks="true" lecturer_id="134" />
+      <Event id="394" type="Lecture" groups="3" lecturer_id="134" />
+      <Event id="395" type="Practice" groups="16" once_in_two_weeks="true" lecturer_id="107" />
+      <Event id="396" type="Lecture" groups="16,17" once_in_two_weeks="true" lecturer_id="107" />
+      <Event id="397" type="Lecture" groups="16,17" lecturer_id="107" />
+    </Subject>
+    <Subject id="217" name="Чисельні методи математичної фізики" lecturer_id="">
+      <Event id="398" type="Lecture" groups="9,8" lecturer_id="171" />
+      <Event id="399" type="Lecture" groups="8,9" once_in_two_weeks="true" lecturer_id="171" />
+      <Event id="400" type="Practice" groups="9" lecturer_id="37" />
+      <Event id="401" type="Practice" groups="8" lecturer_id="37" />
+    </Subject>
+    <Subject id="218" name="Чисельно-аналітичне моделювання нелінійних об'єктів" lecturer_id="">
+      <Event id="402" type="Lecture" groups="10" lecturer_id="125" />
+    </Subject>
+    <Subject id="219" name="Якість ПЗ" lecturer_id="" />
+  </Subjects>
+</SchedulerInput>
